@@ -506,7 +506,7 @@ pretium ac.</p>
     </nav>
     <div class="container">
         <h2>About Me</h2>
-        <p>Perkenalkan nama saya <b>Syifa Aurellia Rahma</b>. Saya merupakan mahasiswa Universitas Pelita Bangsa dari fakultas teknik dan program studi <i>Teknik Informatika</i>.
+        <p>Perkenalkan nama saya <b> Fathia Wardah S.Djawas </b>. Saya merupakan mahasiswa Universitas Pelita Bangsa dari fakultas teknik dan program studi <i>Teknik Informatika</i>.
            Saya sedang belajar HTML dasar, seperti tugas yang saat ini saya kerjakan yaitu <b>Membuat Layout Web Sederhana.</b>
            Untuk pada halaman ini saya ditugaskan untuk membuat isi dari menu layout <b>"About"</b></p>
     </div>    
